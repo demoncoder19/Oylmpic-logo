@@ -1,0 +1,9 @@
+#mycanvas{
+    background-color: white;
+    border-width: 10px;
+    border-style: ridge;
+    }
+    #titles{
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        font-size: 50px;
+    }
